@@ -24,7 +24,6 @@ console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
 console.log('         [Wait please .. ]       ')
 console.log('=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=')
 client.on('ready', () => {
-client.user.setActivity("1play",{type: 'WATCHING'}) 
     console.log('')
     console.log('')
     console.log('')
